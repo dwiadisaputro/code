@@ -1,1 +1,1 @@
-echo "# codingan"
+code 2
